@@ -1,3 +1,4 @@
 # Recommendation-Engine
 Recommendation Engine using python.
-A trail and error type search engine algorithm tested during my holidays
+A search engine algorithm tested during my holidays.\n
+The data provided is purely fictional and fictional and has no correspondence to real life values.
